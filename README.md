@@ -1,8 +1,8 @@
 # haoxinren_inf
 API for haoxinren
 
-用户注册
-输入部分
+#用户注册
+#输入部分
 
 phonenumber:
     string 手机号。 
